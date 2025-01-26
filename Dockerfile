@@ -132,10 +132,10 @@ LABEL com.github.actions.name="Super-Linter" \
   com.github.actions.icon="code" \
   com.github.actions.color="red" \
   maintainer="@Hanse00, @ferrarimarco, @zkoppert" \
-  org.opencontainers.image.authors="Super Linter Contributors: https://github.com/super-linter/super-linter/graphs/contributors" \
-  org.opencontainers.image.url="https://github.com/super-linter/super-linter" \
-  org.opencontainers.image.source="https://github.com/super-linter/super-linter" \
-  org.opencontainers.image.documentation="https://github.com/super-linter/super-linter" \
+  org.opencontainers.image.authors="Super Linter Contributors: https://github.com/erb1851/super-linter/graphs/contributors" \
+  org.opencontainers.image.url="https://github.com/erb1851/super-linter/" \
+  org.opencontainers.image.source="https://github.com/erb1851/super-linter/" \
+  org.opencontainers.image.documentation="https://github.com/erb1851/super-linter/" \
   org.opencontainers.image.description="A collection of code linters and analyzers."
 
 # https://docs.docker.com/engine/reference/builder/#automatic-platform-args-in-the-global-scope
