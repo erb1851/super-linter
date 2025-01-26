@@ -166,19 +166,19 @@ RUN apk add --no-cache \
   openssh-client \
   parallel \
   perl \
-  php83 \
-  php83-ctype \
-  php83-curl \
-  php83-dom \
-  php83-iconv \
-  php83-pecl-igbinary \
-  php83-intl \
-  php83-mbstring \
-  php83-openssl \
-  php83-phar \
-  php83-simplexml \
-  php83-tokenizer \
-  php83-xmlwriter \
+  php84 \
+  php84-ctype \
+  php84-curl \
+  php84-dom \
+  php84-iconv \
+  php84-pecl-igbinary \
+  php84-intl \
+  php84-mbstring \
+  php84-openssl \
+  php84-phar \
+  php84-simplexml \
+  php84-tokenizer \
+  php84-xmlwriter \
   R \
   rakudo \
   ruby \
