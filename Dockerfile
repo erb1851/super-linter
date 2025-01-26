@@ -145,7 +145,8 @@ ARG TARGETARCH
 # This is also a super-linter runtime dependency
 RUN apk add --no-cache \
   bash
-
+RUN echo "https://dl-cdn.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories
+RUN echo "https://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories
 SHELL ["/bin/bash", "-o", "errexit", "-o", "nounset", "-o", "pipefail", "-c"]
 
 # Install super-linter runtime dependencies
